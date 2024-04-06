@@ -1,4 +1,4 @@
-# Product-Analysis-using-SQL
+# Product-Analysis-with-SQL
 ## About the projects
 ## Data source 
 
